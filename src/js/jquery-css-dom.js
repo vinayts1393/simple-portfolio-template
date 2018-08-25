@@ -32,8 +32,8 @@ $(document).ready(function() {
          }
      });
 
-     // these code scrolls the content on click event 
-     /*$(".nav > a").each(function() {
+     
+        $(".nav > a").each(function() {
          var v = $.makeArray(this);
 
          console.log(v);
