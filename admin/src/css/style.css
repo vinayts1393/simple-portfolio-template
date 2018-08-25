@@ -1,0 +1,15 @@
+body {
+}
+
+.card {
+    background-color: rgb(61, 61, 61) !important;
+}
+
+.white-text {
+    color: white;
+}
+
+.btn-pad {
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+}
